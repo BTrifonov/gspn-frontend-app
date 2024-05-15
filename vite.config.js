@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: "/gspn-app/",
+  base: "/gspn-frontend-app",
   publicDir: "public", 
   resolve: { 
     alias: {
