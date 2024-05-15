@@ -1,0 +1,72 @@
+.menu-container {
+    height: fit-content;
+    width: 90%;
+    padding: 2px;
+
+    margin: 0 auto;
+
+    background-color: blue;
+    border-radius: 5px;
+
+    margin-top: 2px;
+    margin-bottom: 2px;
+
+    /*overflow: auto;*/
+}
+
+/*Styling of all button containers*/
+.btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    background-color: rgb(9, 147, 240);
+    border-radius: 5px;
+    
+    margin-top: 2px;
+    margin-bottom: 0;
+
+    overflow: auto;
+}
+
+/*Styling of traceback, enabledTransition containers */
+.sim-container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+
+    background-color: rgb(9, 147, 240);
+    border-radius: 5px;
+    
+    margin-top: 2px;
+    margin-bottom: 0;
+}
+
+/*Button styling*/
+button {
+    border-radius: 5px;
+    background-color: silver;
+    margin: 1px;
+}
+
+button:active {
+    background-color: grey;
+    cursor: pointer;
+}
+
+/*Input styling*/
+.input {
+    border-radius: 5px;
+    width: inherit;
+    margin-top: 2px;
+    background-color: lightblue;
+}
+
+/*Text styling*/
+.text {
+    color: white;
+    font-size: larger;
+    font-style:italic;
+
+    margin: 0 auto;
+}
