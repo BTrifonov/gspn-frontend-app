@@ -10,3 +10,8 @@ The following functionalities are available to the user:
 Additional features enhancing the user experience are resizing the canvas  
 and choosing different backgrounds  
 
+
+## Deployment 
+
+The prototype of the app is available under https://btrifonov.github.io/gspn-frontend-app/.
+
