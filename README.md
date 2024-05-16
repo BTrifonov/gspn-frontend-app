@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+## Short description of the frontend app
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Frontend design of a generalized stochastic petri net application.  
 
-## Recommended IDE Setup
+The following functionalities are available to the user:  
+  + Creating immediate/timed transitions and modifying their properties  
+  + Creating places and modifying their properties  
+  + Creating weighted arcs between transitions and places
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Additional features enhancing the user experience are resizing the canvas  
+and choosing different backgrounds  
+
